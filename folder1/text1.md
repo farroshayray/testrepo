@@ -1,6 +1,6 @@
 # MarkDown
 
-Pada kesempatan kali ini akan dilakukan pelatihan yang berkaitan dengan bahasa pemrograman
+Pada kesempatan kali ini akan dilakukan pelatihan yang berkaitan dengan bahasa pemrograman,
 diantaranya adalah pengguanaan **MarkDown**.
 
 **MarkDown** menurut saya  ini adalah sebuah bahasa markup yang sangat mudah diaplikasikan karena tidak mengandung banyak unsur dengan output yang sederhana bagi saya sudah sangat sesuai dengan kegunaannya.
@@ -27,5 +27,6 @@ Menurut saya ada beberapa kelebihan ketika menggunakan **MarkDown**
 |16.|Pengelolaan Konten yang Efisien| **MarkDown** memudahkan pengelolaan konten yang besar dan kompleks dengan lebih terorganisir|
 |17.|Dukungan untuk Scripting| **MarkDown** mendukung penggunaan script untuk automasi dan fungsi yang lebih kompleks|
 |18.|Aksesibilitas Tinggi| **MarkDown** memudahkan akses bagi pengguna dengan kebutuhan khusus melalui teknologi assistive|
+|19.|Pembaruan Otomatis| **MarkDown** mendukung pembaruan konten secara otomatis melalui skrip atau integrasi API|
 
 Demikianlah beberapa kelebihan dari penggunaan **MarkDown** yang dapat memudahkan dan meningkatkan efisiensi dalam pembuatan dokumen. Semoga informasi ini bermanfaat dan dapat membantu Anda dalam memilih alat yang tepat untuk kebutuhan dokumentasi Anda.

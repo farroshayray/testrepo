@@ -1,6 +1,6 @@
 # MarkDown
 
-Pada kesempatan kali ini akan dilakukan pelatihan yang berkaitan dengan bahasa pemrograman yayaya
+Pada kesempatan kali ini akan dilakukan pelatihan yang berkaitan dengan bahasa pemrograman
 diantaranya adalah pengguanaan **MarkDown**.
 
 **MarkDown** menurut saya  ini adalah sebuah bahasa markup yang sangat mudah diaplikasikan karena tidak mengandung banyak unsur dengan output yang sederhana bagi saya sudah sangat sesuai dengan kegunaannya.
